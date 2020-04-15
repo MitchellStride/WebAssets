@@ -1,2 +1,5 @@
-# WebAssets
- Backup website assets for auto generation outside main branch
+# Pages
+
+Error
+
+<a href="http://mitchellstride.com/">HOME</a>
