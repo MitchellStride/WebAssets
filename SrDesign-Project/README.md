@@ -1,4 +1,4 @@
-# Product Pages
+# SubSea Resident Autonomous Underwater Vechicle (SRAUV)
 
 Early post and details for my senior design project to design a SRAUV with the team. Currently working on a SBC PCIe gen 2 link to a TPU all on one multilayer PCB.
 <ul>
