@@ -8,7 +8,7 @@ In 2019 I went to LA for two weeks for the Hyperloop competition at SpaceX. I le
 <img src="{{ "/pictures/01.jpg?raw=true" | prepend: site.baseurl }}" />
 <img src="{{ "/pictures/04.jpg?raw=true" | prepend: site.baseurl }}" />
 <img src="{{ "/pictures/11.jpg?raw=true" | prepend: site.baseurl }}" />
-<img src="{{ "/pictures/12.jpg?raw=true" | prepend: site.baseurl }}" />
+
 
 
 ## Memorial Baja
