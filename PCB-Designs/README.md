@@ -14,6 +14,5 @@ Cheapest board I could make with USB support and some other basic peripherials. 
 ## Contract Work
 Contact me if you need contract PCB design work done for prototyping or low run manafacturing.
 <img src="{{ "/pictures/11.jpg?raw=true" | prepend: site.baseurl }}" />
-<img src="{{ "/pictures/14.jpg?raw=true" | prepend: site.baseurl }}" />
 
 <br><a href="http://mitchellstride.com/">HOME</a>
